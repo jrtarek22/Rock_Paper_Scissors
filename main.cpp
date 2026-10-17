@@ -9,8 +9,9 @@ void showWelcomeScreen() {
 	cout << "==================================================" << endl;
 	cout << "          WELCOME TO ROCK PAPER SCISSORS       " << endl;
 	cout << "==================================================" << endl;
-	cout << "                    Rules:                        " << endl;
-	cout << "             Stone   beats   Scissor                   " << endl;
+	cout << "                    Rules:                            " << endl;
+	cout << "             Stone   beats   Scissor                  " << endl;
+	cout << "             Scissor beats   Paper                    " << endl;
 	cout << "             Paper   beats   Stone                    " << endl;
 	cout << "==================================================" << endl;
 
